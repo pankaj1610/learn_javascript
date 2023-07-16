@@ -3,7 +3,7 @@
 // map, filter, reduce
 
 let phone = {
-	Redmi: 10000,
+	"Redmi": 10000,
 	"Samsung A2": 15000,
 	"IPhone 15": 100000,
 	"Iphone 14": 80000,
