@@ -13,3 +13,7 @@ function y(x) {
 }
 
 y(x);
+
+// It modularize your code.
+// Example - 
+// map, filter and reduce etc.
